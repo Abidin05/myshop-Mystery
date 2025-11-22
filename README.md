@@ -1,20 +1,17 @@
-<<<<<<< HEAD
-# uts_myshop_mystery
+Widget yang digunakan:
+- MaterialApp: root aplikasi.
+- Scaffold: struktur dasar tiap halaman.
+- AppBar: judul halaman.
+- Column: layout vertikal.
+- Row: layout horizontal kategori.
+- Container: membungkus elemen UI.
+- GestureDetector: mendeteksi tap/klik.
+- Navigator.push: berpindah halaman.
+- GridView.count: menampilkan produk dalam grid.
+- Icon: menampilkan ikon kategori/produk.
+- Text: menampilkan teks.
+- SizedBox: jarak antar elemen.
+- BoxDecoration: dekorasi container (warna/border).
+- EdgeInsets: padding & margin.
+- Map & List + .map(): membentuk daftar widget dari data.
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
-# myshop-Mystery
->>>>>>> 5010cd5533e115efee656eecc8b5423f8e42620c
